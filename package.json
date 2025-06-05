@@ -10,7 +10,7 @@
     "copy formatting",
     "copy text formatting"
   ],
-  "type": "module",
+  "type": "commonjs",
   "main": "./index.js",
   "author": "lxf <infiniment@163.com>",
   "license": "MIT",
@@ -20,6 +20,6 @@
     "url": "git+git@github.com:luoxiangfan/ckeditor5-format-painter.git"
   },
   "files": [
-    "*.js"
+    "./"
   ]
 }
