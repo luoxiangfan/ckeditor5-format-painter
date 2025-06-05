@@ -1,0 +1,25 @@
+{
+  "name": "ckeditor5-format-painter",
+  "version": "v1.0.0",
+  "description": "format painter feature for ckeditor5",
+  "keywords": [
+    "ckeditor",
+    "ckeditor5",
+    "format painter",
+    "paint formatting",
+    "copy formatting",
+    "copy text formatting"
+  ],
+  "type": "module",
+  "main": "./index.js",
+  "author": "lxf <infiniment@163.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/luoxiangfan/ckeditor5-format-painter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:luoxiangfan/ckeditor5-format-painter.git"
+  },
+  "files": [
+    "*.js"
+  ]
+}
